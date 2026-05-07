@@ -167,6 +167,7 @@
 
 ## ▶ 파일 구조
 
+```
 donghakgaemi-analysis/
 ├── notebooks/
 │   ├── 1_data_collection.ipynb     # 데이터 수집 + 안전성 검증
@@ -184,6 +185,7 @@ donghakgaemi-analysis/
 │   └── price_comparison.png        # 코스피 vs 인기종목 추이
 ├── .gitignore
 └── README.md
+```
 
 ---
 
