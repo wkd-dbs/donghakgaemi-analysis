@@ -1,0 +1,16 @@
+# 가상환경
+.venv/
+
+# 데이터 (용량 큼)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
